@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Academic</title>
+    <title>Homes on </title>
     <link>//localhost:1313/home/</link>
-    <description>Recent content in Homes on Academic</description>
+    <description>Recent content in Homes on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="//localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>//localhost:1313/home/hero_carousel/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>//localhost:1313/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
-    </item>
     
     <item>
       <title></title>
@@ -36,8 +18,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>//localhost:1313/home/about/</guid>
-      <description>Biography FMTea asdf is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Formal Methods Teaching Workshop and Tutorial Event affiliated with FM 2019, 3rd World Congress on Formal Methods  Porto, Portugal Oct 7, 2019
+WEBPAGE UNDER CONSTRUCTION!!!
+Add a short blurb</description>
     </item>
     
     <item>
@@ -50,85 +33,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>//localhost:1313/home/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/home/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>//localhost:1313/home/publications_selected/</link>
+      <title>Objectives and Scope</title>
+      <link>//localhost:1313/home/objectives/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>//localhost:1313/home/publications_selected/</guid>
-      <description></description>
+      <guid>//localhost:1313/home/objectives/</guid>
+      <description>Teaching Formal Methods is an important aspect of the Formal Methods world, as it invests in the future of Formal Methods (FM). However, in many universities around the world, Formal Methods courses have decreased in number and/or content, have been transformed into (smaller) postgraduate courses, or have been kept only as self-study courses for truly motivated students. Even in universities where the courses have remained intact in the curriculum, the attendance and motivation of the students is sometimes challenging.</description>
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>//localhost:1313/home/publications/</link>
+      <title>Organisation</title>
+      <link>//localhost:1313/home/organisation/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>//localhost:1313/home/publications/</guid>
-      <description></description>
+      <guid>//localhost:1313/home/organisation/</guid>
+      <description>FMTea19 is organised by FME’s Teaching Committee. Our broad aim is to support a worldwide improvement in learning Formal Methods, mainly by teaching but also via self-learning. To that end, we started to collect a list of FM courses taught worldwide (https://github.com/luigiapetre/Formal-Methods-Courses/issues) and plan to collect other resources as well, such as FM case studies, FM inspirational papers, etc.</description>
     </item>
     
     <item>
-      <title>Selected Talks</title>
-      <link>//localhost:1313/home/talks_selected/</link>
+      <title>Program Committee</title>
+      <link>//localhost:1313/home/committee/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>//localhost:1313/home/talks_selected/</guid>
-      <description></description>
+      <guid>//localhost:1313/home/committee/</guid>
+      <description> Luigia Petre, Åbo Akademi University, Finland (co-chair) Brijesh Dongol, University of Surrey, UK (co-chair) Graeme Smith, University of Queensland, Australia (co-chair) Catherine Dubois, ENSIIE, France Joao F. Ferreira, University of Lisbon, Portugal Bernd Fischer, Stellenbosch University, South Africa K. Rustan M. Leino, Amazon Web Services, US Alexandra Mendes, University of Beira Interior, Portugal Leila Ribeiro, Federal University of Rio Grande do Sul, Brazil Pierluigi San Pietro, Politecnico di Milano, Italy Kenji Taguchi, CAV, Japan  </description>
     </item>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>//localhost:1313/home/talks/</link>
+      <title>Previous Editions</title>
+      <link>//localhost:1313/home/previous/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>//localhost:1313/home/talks/</guid>
-      <description></description>
+      <guid>//localhost:1313/home/previous/</guid>
+      <description>Several events focused on teaching aspects for Formal Methods were held in the beginning of the 2000s: two BCS-FACS TFM workshops (Oxford in 2003 and London in 2006), the TFM 2004 conference in Ghent (with proceedings published as Springer LNCS Volume 3294), the FM-Ed 2006 workshop (Hamilton, co-located with FM&#39;06), FORMED (Budapest, at ETAPS 2008), and FMET 2008 (Kitakyushu 2008, co-located with ICFEM). The latest event was TFM2009, the 2nd International FME Conference on Teaching Formal Methods, in November 2009 in Eindhoven, the Netherlands.</description>
     </item>
     
     <item>
-      <title>Recent Posts</title>
-      <link>//localhost:1313/home/posts/</link>
+      <title>Submission Information</title>
+      <link>//localhost:1313/home/submission/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>//localhost:1313/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>//localhost:1313/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>//localhost:1313/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>//localhost:1313/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>//localhost:1313/home/tags/</guid>
-      <description></description>
+      <guid>//localhost:1313/home/submission/</guid>
+      <description>FMTea19 invites high quality papers reporting on opinions, approaches, and experiences related to the topic of teaching Formal Methods. Each submitted paper will be reviewed by at least three PC members. The conference proceedings is planned to be published in Springer&#39;s Lecture Notes in Computer Science series. All submissions must be original, unpublished, and not submitted for publication elsewhere. Submissions must be in PDF format, using the Springer LNCS style files; we suggest to use the LaTeX2e package (the llncs.</description>
     </item>
     
     <item>

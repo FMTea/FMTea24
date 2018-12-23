@@ -29,7 +29,7 @@
     <url>
     
       <loc>//localhost:1313/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -38,14 +38,6 @@
     <url>
     
       <loc>//localhost:1313/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>//localhost:1313/publication_types/</loc>
       <priority>0</priority>
     </url>
     
