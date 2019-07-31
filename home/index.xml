@@ -68,6 +68,19 @@
     </item>
     
     <item>
+      <title>Accepted Papers</title>
+      <link>//localhost:1313/home/accepted/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>//localhost:1313/home/accepted/</guid>
+      <description>Andrew Simpson. Teaching Introductory Formal Methods and Discrete Mathematics to Software Engineers: Reflections on a modelling-focussed approach
+ Nestor Catano. Teaching Formal Methods: Lessons Learnt from Using Event-B
+ Sandrine Blazy. Teaching Deductive Verification in Why3 to Undergraduate Students
+ Pamela Fleischmann, Mitja Kulczynski, Dirk Nowotka and Thomas Wilke. Managing Heterogeneity and Bridging the Gap in Teaching Formal Methods
+ Adrian Johnstone and Elizabeth Scott. Principled and pragmatic specification of programming languages</description>
+    </item>
+    
+    <item>
       <title>Submission Information</title>
       <link>//localhost:1313/home/submission/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
