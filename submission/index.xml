@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Submission | FMTea 2023</title>
-    <link>https://sanpietr.github.io/MockFMTea23site/submission/</link>
-      <atom:link href="https://sanpietr.github.io/MockFMTea23site/submission/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://FMTea.github.io/submission/</link>
+      <atom:link href="https://FMTea.github.io/submission/index.xml" rel="self" type="application/rss+xml" />
     <description>Submission</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sanpietr.github.io/MockFMTea23site/media/icon_hu524626f0a757214e0814f642e8532ced_15238_512x512_fill_lanczos_center_3.png</url>
+      <url>https://FMTea.github.io/media/icon_hu524626f0a757214e0814f642e8532ced_15238_512x512_fill_lanczos_center_3.png</url>
       <title>Submission</title>
-      <link>https://sanpietr.github.io/MockFMTea23site/submission/</link>
+      <link>https://FMTea.github.io/submission/</link>
     </image>
     
     <item>
       <title>An example conference paper</title>
-      <link>https://sanpietr.github.io/MockFMTea23site/submission/example/</link>
+      <link>https://FMTea.github.io/submission/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://sanpietr.github.io/MockFMTea23site/submission/example/</guid>
+      <guid>https://FMTea.github.io/submission/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

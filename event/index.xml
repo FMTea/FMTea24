@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | FMTea 2023</title>
-    <link>https://sanpietr.github.io/MockFMTea23site/event/</link>
-      <atom:link href="https://sanpietr.github.io/MockFMTea23site/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://FMTea.github.io/event/</link>
+      <atom:link href="https://FMTea.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sanpietr.github.io/MockFMTea23site/media/icon_hu524626f0a757214e0814f642e8532ced_15238_512x512_fill_lanczos_center_3.png</url>
+      <url>https://FMTea.github.io/media/icon_hu524626f0a757214e0814f642e8532ced_15238_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://sanpietr.github.io/MockFMTea23site/event/</link>
+      <link>https://FMTea.github.io/event/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://sanpietr.github.io/MockFMTea23site/talk/example-talk/</link>
+      <link>https://FMTea.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://sanpietr.github.io/MockFMTea23site/talk/example-talk/</guid>
+      <guid>https://FMTea.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.

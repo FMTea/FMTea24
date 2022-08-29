@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://sanpietr.github.io/MockFMTea23site/sitemap.xml
+Sitemap: https://FMTea.github.io/sitemap.xml
